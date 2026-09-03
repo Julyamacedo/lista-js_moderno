@@ -17,3 +17,4 @@ console.log(`Notebook ${marca} ${modelo}`);
 console.log(`Preço original: R$ ${preco}`);
 console.log(`Desconto: R$ ${desconto}`);
 console.log(`Preço final: R$ ${precoFinal}`);
+//rerere
